@@ -1,6 +1,6 @@
 import java.util.*;
 import java.sql.*;
-class StudentDb
+class Expo1
 {
 static public void main(String   args[]) throws Exception 
 {
